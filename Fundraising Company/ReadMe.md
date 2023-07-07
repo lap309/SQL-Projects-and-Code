@@ -1,4 +1,4 @@
-# Campaign-Business-Report
+# Fundraising-Business-Report
 This report is centered around a fundraising platform for creative projects of all tyypes and size. It operates through a crowdfunding model, by having people make donations online. The model is a little unique in that it follows an all or nothing model. If the project does not meet it's budget goal, then the project will not launch, donors receive a reimbursement for the amount they donated, and the project receives ZERO funding.<br>
 <br>
 The steps involved in setting up a campaign are as follows:<br>
